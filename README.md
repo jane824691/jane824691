@@ -9,4 +9,4 @@ Deeply passionate about creating intuitive user experiences, collaborating acros
 
 Always seeking new challenges and opportunities to grow.
 <br/>
-[visit my personal website here!](https://jane824691.github.io/)
+[Visit my personal website here!](https://jane824691.github.io/)
