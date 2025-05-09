@@ -2,7 +2,7 @@
 
 As a Frontend Engineer, I bring solid experience in modern web development using JavaScript, Next.js, and Bootstrap.
 <br/>
-Excel at modernizing legacy codebases, conducting detailed code reviews to ensure quality, and integrating AI tools to streamline workflows.
+Excel at modernizing codebases, conducting detailed code reviews to ensure quality, and integrating AI tools to streamline workflows.
 Deeply passionate about creating intuitive user experiences, collaborating across disciplines, and staying at the forefront of tech trends.
 
 －
